@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Computer science**
 
-💬 Ask me about **React, Node.js, Express.js ... or anything [here](https://github.com/Rehan1908//Rehan1908)**
+💬 Ask me about **React, Node.js, Next.js ... or anything [here](https://github.com/Rehan1908//Rehan1908)**
 
 
  </div>
