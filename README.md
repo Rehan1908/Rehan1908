@@ -10,11 +10,10 @@
 
 <div align="center">
  
- 🔭 I’m currently working on Stack Stories
+ 🔭 I’m currently Learning C# and .NET
  
  🌱 I’m currently learning **Computer science**
 
-💬 Ask me about **React, Node.js, Next.js ... or anything [here](https://github.com/Rehan1908//Rehan1908)**
 
 
  </div>
@@ -33,8 +32,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,c,nextjs,mysql,c#" /><br>
 </div>
 
 <br/>
